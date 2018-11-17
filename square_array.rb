@@ -1,3 +1,3 @@
 def square_array(array)
-  squared_array = []
+  square_array = []
 end
